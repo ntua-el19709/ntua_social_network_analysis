@@ -9,4 +9,4 @@ In this exercise we show the following:
 - Study of evolutionary change of topology from _Regular_ to _Small World_
 - Analysis of some real networks
 
-The exercise is implemented in a Jupyter Notebook and the markdown text is in greek. The files used for the real networks are `got.txt` and `web-Stanford.txt`.
+The exercise is implemented in Jupyter Notebook `SNA_lab1.ipynb` and the markdown text is in greek. The files used for the real networks are `got.txt` and `web-Stanford.txt`.
