@@ -1,13 +1,13 @@
-# Analysis of Social Structure to Artificial and Realistic Network Topologies (**Community Detection**)
+# Analysis of Social Structure to Artificial and Realistic Network Topologies (Community Detection)
 
 In this exercise we do the following:
 
 - Study of some real networks based on the metrics used in Lab 1.
 - Match each real network to a topology based on their characteristics.
 - Community Detection but as a problem of network partition, using the following algorithms:
-  > Spectral Clustering
-  > Newman-Girvan
-  > Modularity Maximization
+  1. Spectral Clustering
+  2. Newman-Girvan
+  3. Modularity Maximization
 - Assesment of the partitions based on metrics (modularity, performance).
 - Assesment of the algorithms based on metrics (modularity, performance) and on time.
 
